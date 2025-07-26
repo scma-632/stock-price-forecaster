@@ -2,4 +2,3 @@ yfinance
 pmdarima
 matplotlib
 pandas
-numpy
